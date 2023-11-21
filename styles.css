@@ -20,3 +20,6 @@ h1 {
 body {
     background-color: #add8e6; /* Light Blue */
 }
+.red-text {
+    color: red;
+}
